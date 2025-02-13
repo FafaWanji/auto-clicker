@@ -1,4 +1,5 @@
-You need to install Python for Windows use the Microsoft Store
+You need to install Python, for Windows use the Microsoft Store.
+
 You need to open CMD and paste the following:
 
 pip install --upgrade pillow
